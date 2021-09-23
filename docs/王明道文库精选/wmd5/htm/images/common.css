@@ -1,0 +1,31 @@
+A {
+    COLOR: #000080;
+    FONT-FAMILY: "宋体";    FONT-SIZE: 11pt;
+TEXT-DECORATION: none
+}
+A:hover {
+    COLOR: #cc0000;
+    FONT-FAMILY: "宋体";    FONT-SIZE: 11pt;
+TEXT-DECORATION: underline
+}
+A:active {
+    COLOR: #cc0000;
+    FONT-FAMILY: "宋体";    FONT-SIZE: 11pt;
+TEXT-DECORATION: underline
+}
+BODY {
+    FONT-FAMILY: "宋体";    FONT-SIZE: 11pt;
+LINE-HEIGHT: 14pt
+}
+TD {
+    FONT-FAMILY: "宋体";    FONT-SIZE: 11pt;
+LINE-HEIGHT: 14pt
+}
+P {
+    FONT-FAMILY: "宋体";    FONT-SIZE: 11pt;
+LINE-HEIGHT: 14pt
+}
+FONT {
+    FONT-FAMILY: "宋体";    FONT-SIZE: 11pt;
+LINE-HEIGHT: 14pt
+}

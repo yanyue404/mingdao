@@ -1,11 +1,11 @@
 {
   "name": "mingdao",
   "version": "1.0.0",
-  "description": "这世界和其上的情欲都要过去，唯独遵行神旨意的是永远常存。（约壹 2: 17）",
+  "description": "记录王明道先生的文字。",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
     "deploy": "bash deploy.sh"
   },
   "devDependencies": {
